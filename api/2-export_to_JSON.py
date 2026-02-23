@@ -36,4 +36,5 @@ if __name__ == "__main__":
     my_dict[user_id] = value
 
     with open(file, 'w') as f:
-        json.dump(my_dict, f)   
+        json.dump(my_dict, f)
+
