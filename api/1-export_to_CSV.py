@@ -32,3 +32,4 @@ if __name__ == "__main__":
                 todo.update({"name": name})
                 del todo["id"]
                 writer.writerow(todo)
+                

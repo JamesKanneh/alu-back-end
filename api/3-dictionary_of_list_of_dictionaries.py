@@ -34,3 +34,4 @@ if __name__ == "__main__":
 
     with open(file, 'w') as f:
         json.dump(my_dict, f)
+        

@@ -33,3 +33,4 @@ if __name__ == "__main__":
     print(f"Employee {name} is done with tasks({done}/{total}):")
     for task in task_done:
         print(f"\t {task}")
+        
